@@ -1,0 +1,25 @@
+
+
+ul
+{
+  list-style-type: none;
+}
+
+li
+{
+  float:right;
+  margin-top:100px;
+}
+
+li a
+{
+  padding:10px 20px;
+  text-decoration:none;
+  font-size:large;
+  margin-left:10px
+}
+
+img
+{
+    float:left;
+}  
